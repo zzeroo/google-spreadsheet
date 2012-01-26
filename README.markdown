@@ -13,10 +13,10 @@ First you have to install `googleclientlogin` for authentication.
 
     npm install googleclientlogin
 
-Then initalize the submodules (for google-spreadsheet there is no npm registry enty, this time).
+Then clone the git repo and initalize the submodules (for google-spreadsheet there is no npm registry enty, this time).
 
     git clone https://github.com/zzeroo/google-spreadsheet
-    git submodule init
+    git submodule update --init
     cd lib/node-google-spreadsheets/
     npm install
     cd ../../
