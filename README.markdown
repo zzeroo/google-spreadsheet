@@ -24,7 +24,7 @@ Then clone the git repo and initalize the submodules (for google-spreadsheet the
 
 Resources
 ---
-  <samcday / node-google-spreadsheets>https://github.com/samcday/node-google-spreadsheets
+  <https://github.com/samcday/node-google-spreadsheets>samcday / node-google-spreadsheets 
 
 License
 ---
