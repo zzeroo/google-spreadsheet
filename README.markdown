@@ -22,6 +22,10 @@ Then clone the git repo and initalize the submodules (for google-spreadsheet the
     cd ../../
 
 
+Resources
+---
+  <samcday / node-google-spreadsheets>https://github.com/samcday/node-google-spreadsheets
+
 License
 ---
 
